@@ -91,6 +91,7 @@ Este projeto consiste em uma API de calculadora com autenticação JWT e um fron
 1. **Navegue para o Diretório do Frontend**:
    ```bash
    cd ../frontend
+   O Projeto frontend esta no arquivo zip
    ```
 
 2. **Configuração do Frontend**:
