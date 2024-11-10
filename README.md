@@ -21,6 +21,9 @@ Aqui está o conteúdo completo do `README.md` com base nas instruções forneci
 
 # Calculator API & Frontend
 
+<img width="369" alt="image" src="https://github.com/user-attachments/assets/89afd3dc-fcd0-488e-af3d-4fa319f45167">
+
+
 ## Descrição
 
 Este projeto consiste em uma API de calculadora com autenticação JWT e um frontend em React que consome essa API. A aplicação permite que usuários autenticados realizem operações matemáticas básicas (soma, subtração, multiplicação e divisão) através de uma interface visual.
